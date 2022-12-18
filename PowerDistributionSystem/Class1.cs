@@ -8,5 +8,9 @@ namespace PowerDistributionSystem
 {
     public class Class1
     {
+
+        int remote;
+
+
     }
 }

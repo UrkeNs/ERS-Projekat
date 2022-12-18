@@ -1,0 +1,7 @@
+C:\Users\Jovan\Desktop\ProjectERS\ERS-Projekat\DistributionCenter\bin\Debug\DistributionCenter.exe.config
+C:\Users\Jovan\Desktop\ProjectERS\ERS-Projekat\DistributionCenter\bin\Debug\DistributionCenter.exe
+C:\Users\Jovan\Desktop\ProjectERS\ERS-Projekat\DistributionCenter\bin\Debug\DistributionCenter.pdb
+C:\Users\Jovan\Desktop\ProjectERS\ERS-Projekat\DistributionCenter\obj\Debug\DistributionCenter.csproj.AssemblyReference.cache
+C:\Users\Jovan\Desktop\ProjectERS\ERS-Projekat\DistributionCenter\obj\Debug\DistributionCenter.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\Desktop\ProjectERS\ERS-Projekat\DistributionCenter\obj\Debug\DistributionCenter.exe
+C:\Users\Jovan\Desktop\ProjectERS\ERS-Projekat\DistributionCenter\obj\Debug\DistributionCenter.pdb

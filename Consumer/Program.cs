@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PowerDistributionSystem
+namespace Consumer
 {
-    interface IDistributionCenter
+    internal class Program
     {
-    
-       
+        static void Main(string[] args)
+        {
+        }
     }
 }

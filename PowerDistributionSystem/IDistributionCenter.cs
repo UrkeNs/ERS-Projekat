@@ -8,5 +8,11 @@ namespace PowerDistributionSystem
 {
     interface IDistributionCenter
     {
+
+        void Delete();
+        void Push();
+        void Lsit();
+
+
     }
 }

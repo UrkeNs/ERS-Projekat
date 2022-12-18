@@ -16,5 +16,7 @@ namespace PowerDistributionSystem
         void proba();
 
         void promena2();
+
+        void proba1();
     }
 }

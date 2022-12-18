@@ -10,6 +10,11 @@ namespace PowerDistributionSystem
     {
 
         int remote;
+        int delete() {
+
+            return remote;
+        
+        }
 
 
     }

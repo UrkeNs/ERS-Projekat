@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PowerDistributionSystem\PowerDistributionSystem.csproj">
+      <Project>{42f983d1-e370-4887-b550-5817cd736d8a}</Project>
+      <Name>PowerDistributionSystem</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -6,16 +6,7 @@ using System.Threading.Tasks;
 
 namespace PowerDistributionSystem
 {
-    public class Class1
+    interface IDistributionCenter
     {
-
-        int remote;
-        int delete() {
-
-            return remote;
-        
-        }
-
-
     }
 }

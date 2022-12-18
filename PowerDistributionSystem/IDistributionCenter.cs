@@ -13,6 +13,8 @@ namespace PowerDistributionSystem
         void Push();
         void Lsit();
 
+        void Work();
+
 
     }
 }

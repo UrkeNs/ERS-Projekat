@@ -11,9 +11,7 @@ namespace PowerDistributionSystem
 
         void Delete();
         void Push();
-        void Lsit();
-
-        void Work();
+        
 
 
     }

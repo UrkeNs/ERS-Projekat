@@ -15,6 +15,8 @@ namespace PowerDistributionSystem
         int promena();
         void proba();
 
+        void poslednjaPromena();
+
         void promena2();
 
         void proba1();

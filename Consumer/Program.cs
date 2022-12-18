@@ -10,6 +10,7 @@ namespace Consumer
     {
         static void Main(string[] args)
         {
+            int a;
         }
     }
 }

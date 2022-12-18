@@ -12,7 +12,7 @@ namespace PowerDistributionSystem
         void Delete();
         void Push();
 
-
+        int promena();
         void proba();
 
 

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32929.386
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerDistributionSystem", "PowerDistributionSystem\PowerDistributionSystem.csproj", "{42F983D1-E370-4887-B550-5817CD736D8A}"
 EndProject
@@ -10,6 +10,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consumer.csproj", "{7257EACA-CF1D-47CB-B3E3-BF7FF57BA71A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistroHidro", "DistroHidro\DistroHidro.csproj", "{7D902FF2-56D2-4E03-B09D-A8DA7458D2EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarPanelsWindGens", "SolarPanelsWindGens\SolarPanelsWindGens.csproj", "{6B86C19D-C6E0-4C10-A503-3CA57E0C6E14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarPanels", "SolarPanels\SolarPanels.csproj", "{63883110-2F47-4B1C-B8E0-52C56B9246DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{7D902FF2-56D2-4E03-B09D-A8DA7458D2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D902FF2-56D2-4E03-B09D-A8DA7458D2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D902FF2-56D2-4E03-B09D-A8DA7458D2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B86C19D-C6E0-4C10-A503-3CA57E0C6E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B86C19D-C6E0-4C10-A503-3CA57E0C6E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B86C19D-C6E0-4C10-A503-3CA57E0C6E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B86C19D-C6E0-4C10-A503-3CA57E0C6E14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63883110-2F47-4B1C-B8E0-52C56B9246DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63883110-2F47-4B1C-B8E0-52C56B9246DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63883110-2F47-4B1C-B8E0-52C56B9246DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63883110-2F47-4B1C-B8E0-52C56B9246DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

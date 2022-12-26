@@ -13,9 +13,7 @@ namespace PowerDistributionSystem
     {
         [OperationContract]
         string TraziZahtjev(Uredjaj u);
-        [OperationContract]
-        void DodajUBazuPodataka(Uredjaj u);
-
+        
     
        
     }

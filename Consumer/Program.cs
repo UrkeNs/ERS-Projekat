@@ -11,7 +11,7 @@ namespace Consumer
 {
     class Program
     {
-
+      
         static void Main(string[] args)
         {
             string adresa = "net.tcp://localhost:4000/DistroCenterServicescs";
@@ -27,8 +27,9 @@ namespace Consumer
                 Console.WriteLine("2.Punjac");
                 Console.WriteLine("3.Mikrotalasna");
                 Console.WriteLine("4.Fen");
+                Console.WriteLine("5.Izlaz");
                 string rbrurdj = Console.ReadLine();
-                string strRegex = "^[1-4]$";
+                string strRegex = "^[1-5]$";
                 Regex re = new Regex(strRegex);
 
             if (!re.IsMatch(rbrurdj))
@@ -70,13 +71,19 @@ namespace Consumer
 
                         break;
 
+
+
                     default:
                         break;
 
                 }
-            
 
-            
+
+                if (rbr == 5)
+                {
+                    Console.WriteLine("Kraj!");
+                    break;
+                }
 
                 
             

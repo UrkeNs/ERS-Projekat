@@ -26,7 +26,7 @@ namespace DistributionCenter
         {
             
 
-            return "Uredjaj:"+this.u + "\n"+"Cena:"+ this.cena + "\n" +"Datum:"+datum+"\n";
+            return "Uredjaj:"+this.u + " "+"Cena:"+ this.cena + " " +"Datum:"+datum+" ";
         }
 
 

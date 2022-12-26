@@ -1,0 +1,6 @@
+C:\Users\Uros\Documents\GitHub\ERS-Projekat\SolarPanels\bin\Debug\SolarPanels.dll
+C:\Users\Uros\Documents\GitHub\ERS-Projekat\SolarPanels\bin\Debug\SolarPanels.pdb
+C:\Users\Uros\Documents\GitHub\ERS-Projekat\SolarPanels\obj\Debug\SolarPanels.csproj.AssemblyReference.cache
+C:\Users\Uros\Documents\GitHub\ERS-Projekat\SolarPanels\obj\Debug\SolarPanels.csproj.CoreCompileInputs.cache
+C:\Users\Uros\Documents\GitHub\ERS-Projekat\SolarPanels\obj\Debug\SolarPanels.dll
+C:\Users\Uros\Documents\GitHub\ERS-Projekat\SolarPanels\obj\Debug\SolarPanels.pdb

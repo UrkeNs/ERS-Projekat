@@ -4,3 +4,9 @@ C:\Users\Jovan\Documents\GitHub\ERS-Projekat\DistroHidro\obj\Debug\DistroHidro.c
 C:\Users\Jovan\Documents\GitHub\ERS-Projekat\DistroHidro\obj\Debug\DistroHidro.csproj.CoreCompileInputs.cache
 C:\Users\Jovan\Documents\GitHub\ERS-Projekat\DistroHidro\obj\Debug\DistroHidro.dll
 C:\Users\Jovan\Documents\GitHub\ERS-Projekat\DistroHidro\obj\Debug\DistroHidro.pdb
+C:\Users\Uros\Documents\GitHub\ERS-Projekat\DistroHidro\bin\Debug\DistroHidro.dll
+C:\Users\Uros\Documents\GitHub\ERS-Projekat\DistroHidro\bin\Debug\DistroHidro.pdb
+C:\Users\Uros\Documents\GitHub\ERS-Projekat\DistroHidro\obj\Debug\DistroHidro.csproj.AssemblyReference.cache
+C:\Users\Uros\Documents\GitHub\ERS-Projekat\DistroHidro\obj\Debug\DistroHidro.csproj.CoreCompileInputs.cache
+C:\Users\Uros\Documents\GitHub\ERS-Projekat\DistroHidro\obj\Debug\DistroHidro.dll
+C:\Users\Uros\Documents\GitHub\ERS-Projekat\DistroHidro\obj\Debug\DistroHidro.pdb

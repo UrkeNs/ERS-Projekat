@@ -9,3 +9,13 @@ C:\Users\Uros\Documents\GitHub\ERS-Projekat\Consumer\obj\Debug\Consumer.pdb
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\Consumer\bin\Debug\PowerDistributionSystem.dll
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\Consumer\bin\Debug\PowerDistributionSystem.pdb
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\Consumer\obj\Debug\Consumer.csproj.CopyComplete
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\Consumer\bin\Debug\Consumer.exe.config
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\Consumer\bin\Debug\Consumer.exe
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\Consumer\bin\Debug\Consumer.pdb
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\Consumer\bin\Debug\PowerDistributionSystem.dll
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\Consumer\bin\Debug\PowerDistributionSystem.pdb
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\Consumer\obj\Debug\Consumer.csproj.AssemblyReference.cache
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\Consumer\obj\Debug\Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\Consumer\obj\Debug\Consumer.csproj.CopyComplete
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\Consumer\obj\Debug\Consumer.exe
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\Consumer\obj\Debug\Consumer.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributionCenter", "Distr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consumer.csproj", "{7257EACA-CF1D-47CB-B3E3-BF7FF57BA71A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistroHidro", "DistroHidro\DistroHidro.csproj", "{7D902FF2-56D2-4E03-B09D-A8DA7458D2EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7257EACA-CF1D-47CB-B3E3-BF7FF57BA71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7257EACA-CF1D-47CB-B3E3-BF7FF57BA71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7257EACA-CF1D-47CB-B3E3-BF7FF57BA71A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D902FF2-56D2-4E03-B09D-A8DA7458D2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D902FF2-56D2-4E03-B09D-A8DA7458D2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D902FF2-56D2-4E03-B09D-A8DA7458D2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D902FF2-56D2-4E03-B09D-A8DA7458D2EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

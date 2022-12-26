@@ -11,6 +11,11 @@ namespace PowerDistributionSystem
     [ServiceContract]
     public interface IDistributionCenter
     {
+        [OperationContract]
+        string TraziZahtjev(Uredjaj u);
+        [OperationContract]
+        void DodajUBazuPodataka(Uredjaj u);
+
     
        
     }

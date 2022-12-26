@@ -10,3 +10,9 @@ C:\Users\Uros\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\obj\Debug\Po
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.csproj.CoreCompileInputs.cache
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.dll
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.pdb
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\bin\Debug\PowerDistributionSystem.dll
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\bin\Debug\PowerDistributionSystem.pdb
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.csproj.AssemblyReference.cache
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.dll
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.pdb

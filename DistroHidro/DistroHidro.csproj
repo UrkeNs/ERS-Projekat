@@ -4,17 +4,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{01FB5C95-57DB-438F-B714-5976E0462991}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>DistributionCenter</RootNamespace>
-    <AssemblyName>DistributionCenter</AssemblyName>
+    <ProjectGuid>{7D902FF2-56D2-4E03-B09D-A8DA7458D2EC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DistroHidro</RootNamespace>
+    <AssemblyName>DistroHidro</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -24,7 +23,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -44,24 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DistributionCentreDataBase.cs" />
-    <Compile Include="DistroCenterServicescs.cs" />
-    <Compile Include="Obracun.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="IHidroelectricPower.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\DistroHidro\DistroHidro.csproj">
-      <Project>{7d902ff2-56d2-4e03-b09d-a8da7458d2ec}</Project>
-      <Name>DistroHidro</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\PowerDistributionSystem\PowerDistributionSystem.csproj">
-      <Project>{42f983d1-e370-4887-b550-5817cd736d8a}</Project>
-      <Name>PowerDistributionSystem</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -62,6 +62,14 @@
       <Project>{42f983d1-e370-4887-b550-5817cd736d8a}</Project>
       <Name>PowerDistributionSystem</Name>
     </ProjectReference>
+    <ProjectReference Include="..\SolarPanelsWindGens\SolarPanelsWindGens.csproj">
+      <Project>{6b86c19d-c6e0-4c10-a503-3ca57e0c6e14}</Project>
+      <Name>SolarPanelsWindGens</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SolarPanels\SolarPanels.csproj">
+      <Project>{63883110-2f47-4b1c-b8e0-52c56b9246db}</Project>
+      <Name>SolarPanels</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

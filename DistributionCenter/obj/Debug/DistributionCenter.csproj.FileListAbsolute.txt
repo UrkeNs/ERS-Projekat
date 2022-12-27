@@ -30,3 +30,8 @@ C:\Users\Uros\Documents\GitHub\ERS-Projekat\DistributionCenter\obj\Debug\Distrib
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\DistributionCenter\obj\Debug\DistributionCenter.csproj.CopyComplete
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\DistributionCenter\obj\Debug\DistributionCenter.exe
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\DistributionCenter\obj\Debug\DistributionCenter.pdb
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\DistributionCenter\bin\Debug\SolarPanels.dll
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\DistributionCenter\bin\Debug\SolarPanelsWindGens.exe
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\DistributionCenter\bin\Debug\SolarPanelsWindGens.pdb
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\DistributionCenter\bin\Debug\SolarPanelsWindGens.exe.config
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\DistributionCenter\bin\Debug\SolarPanels.pdb

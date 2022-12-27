@@ -19,16 +19,16 @@ namespace SolarPanelsWindGens
 
             double snagaKW = 0;
 
-            int maxSnaga = 750;
-            
-             
-             
+            double maxSnaga = 750;
+
+
+
             snagaSolarWind = rnd.Next(0, 101);
 
-            snagaKW = maxSnaga * (snagaSolarWind / 100);
+            snagaKW = maxSnaga * ((double)snagaSolarWind / 100);
 
-            Console.WriteLine("Trenutno generisana snaga u procentima" + snagaSolarWind + "%");
-            Console.WriteLine("Trenutna snaga generisana u KW" + snagaKW + "KW");
+            Console.WriteLine("Trenutno generisana snaga u procentima: " + snagaSolarWind + "%");
+            Console.WriteLine("Trenutna snaga generisana u KW: " + snagaKW + "KW");
 
 
 

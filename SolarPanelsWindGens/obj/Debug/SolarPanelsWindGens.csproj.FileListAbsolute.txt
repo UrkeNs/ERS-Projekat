@@ -9,3 +9,13 @@ C:\Users\Uros\Documents\GitHub\ERS-Projekat\SolarPanelsWindGens\obj\Debug\SolarP
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\SolarPanelsWindGens\bin\Debug\SolarPanels.dll
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\SolarPanelsWindGens\bin\Debug\SolarPanels.pdb
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\SolarPanelsWindGens\obj\Debug\SolarPanelsWindGens.csproj.CopyComplete
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\SolarPanelsWindGens\obj\Debug\SolarPanelsWindGens.csproj.AssemblyReference.cache
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\SolarPanelsWindGens\obj\Debug\SolarPanelsWindGens.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\SolarPanelsWindGens\obj\Debug\SolarPanelsWindGens.exe
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\SolarPanelsWindGens\obj\Debug\SolarPanelsWindGens.pdb
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\SolarPanelsWindGens\bin\Debug\SolarPanelsWindGens.exe.config
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\SolarPanelsWindGens\bin\Debug\SolarPanelsWindGens.exe
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\SolarPanelsWindGens\bin\Debug\SolarPanelsWindGens.pdb
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\SolarPanelsWindGens\bin\Debug\SolarPanels.dll
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\SolarPanelsWindGens\bin\Debug\SolarPanels.pdb
+C:\Users\Jovan\Documents\GitHub\ERS-Projekat\SolarPanelsWindGens\obj\Debug\SolarPanelsWindGens.csproj.CopyComplete

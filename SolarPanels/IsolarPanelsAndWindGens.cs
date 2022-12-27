@@ -14,7 +14,7 @@ namespace SolarPanels
 
     {
         [OperationContract]
-        double generisiSnagu();
+         double generisiSnagu();
 
 
         //[OperationContract]

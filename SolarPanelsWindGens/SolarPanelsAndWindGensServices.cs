@@ -5,11 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 using SolarPanels;
 using System.Threading;
+using System.IO;
 
 namespace SolarPanelsWindGens
 {
     class SolarPanelsAndWindGensServices : IsolarPanelsAndWindGens
     {
+        
+
 
         public double generisiSnagu() {
 
@@ -32,7 +35,13 @@ namespace SolarPanelsWindGens
 
 
 
-            return snagaKW;
+          
+
+
+
+
+
+                return snagaKW;
         }
 
         

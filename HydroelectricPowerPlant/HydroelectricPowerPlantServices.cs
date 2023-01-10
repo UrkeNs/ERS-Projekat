@@ -7,26 +7,31 @@ using System.Threading.Tasks;
 
 namespace HydroelectricPowerPlant
 {
-    class HydroelectricPowerPlantServices : IHidroelectricPower
+    public class HydroelectricPowerPlantServices : IHidroelectricPower
     {
         public double PotraznjaZaGenerisanje()
         {
-            Random rand = new Random();
+            Random rnd = new Random();
+
+            int elektricnaEnergijaProc = 0; 
 
             double elektricnaEnergija = 0;
 
-            int elektricnaEnergijaProc = 0;
+            double maxElektricnaEnergija = 2000;
 
-            double maxEnergija = 2000;
 
-            elektricnaEnergijaProc = rand.Next(0, 101);
 
-            elektricnaEnergija = maxEnergija * ((double)elektricnaEnergijaProc / 100);
+            elektricnaEnergijaProc = rnd.Next(0, 101);
 
-            Console.WriteLine("Trenutno generisana elektricna energija u procentima: " + elektricnaEnergijaProc + "%");
-            Console.WriteLine("Trenutna elektricna energija u MV: " + elektricnaEnergija + "MV");
+            elektricnaEnergija = maxElektricnaEnergija * ((double)elektricnaEnergijaProc / 100);
+
+            Console.WriteLine("Trenutno generisana snaga u procentima: " + elektricnaEnergijaProc + "%");
+            Console.WriteLine("Trenutna snaga generisana u KW: " + elektricnaEnergija + "KW");
 
             return elektricnaEnergija;
         }
     }
 }
+
+              
+

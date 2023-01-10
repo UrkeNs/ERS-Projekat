@@ -4,12 +4,15 @@ C:\Users\Jovan\Desktop\ProjectERS\ERS-Projekat\PowerDistributionSystem\obj\Debug
 C:\Users\Jovan\Desktop\ProjectERS\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.csproj.CoreCompileInputs.cache
 C:\Users\Jovan\Desktop\ProjectERS\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.dll
 C:\Users\Jovan\Desktop\ProjectERS\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.pdb
+<<<<<<< Updated upstream
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\bin\Debug\PowerDistributionSystem.dll
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\bin\Debug\PowerDistributionSystem.pdb
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.csproj.AssemblyReference.cache
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.csproj.CoreCompileInputs.cache
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.dll
 C:\Users\Uros\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.pdb
+=======
+>>>>>>> Stashed changes
 C:\Users\Jovan\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\bin\Debug\PowerDistributionSystem.dll
 C:\Users\Jovan\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\bin\Debug\PowerDistributionSystem.pdb
 C:\Users\Jovan\Documents\GitHub\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.csproj.AssemblyReference.cache

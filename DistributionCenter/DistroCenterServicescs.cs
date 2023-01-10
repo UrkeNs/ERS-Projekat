@@ -7,7 +7,7 @@ using PowerDistributionSystem;
 using SolarPanels;
 using DistroHidro;
 using System.ServiceModel;
-using HydroelectricPowerPlant;
+
 
 namespace DistributionCenter
 {
@@ -47,14 +47,14 @@ namespace DistributionCenter
             else
                 return "Zahtjev odbijen";
 
-            string adresa1 = "net.tcp://localhost:3998/Hidro";
+            /*string adresa1 = "net.tcp://localhost:3998/Hidro";
             NetTcpBinding binding1 = new NetTcpBinding();
             ChannelFactory<IHidroelectricPower> channel1 =
                 new ChannelFactory<IHidroelectricPower>(binding1, adresa1);
             IHidroelectricPower proxy1 = channel1.CreateChannel();
 
             double ElektricnaEnergija = proxy1.PotraznjaZaGenerisanje();
-
+            */
 
             
 

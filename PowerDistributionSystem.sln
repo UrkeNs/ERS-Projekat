@@ -15,8 +15,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarPanelsWindGens", "Sola
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarPanels", "SolarPanels\SolarPanels.csproj", "{63883110-2F47-4B1C-B8E0-52C56B9246DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HydroelectricPowerPlant", "HydroelectricPowerPlant\HydroelectricPowerPlant.csproj", "{380CCDA4-1070-4E3F-92E7-C1883ABDDCA1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,10 +45,6 @@ Global
 		{63883110-2F47-4B1C-B8E0-52C56B9246DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63883110-2F47-4B1C-B8E0-52C56B9246DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63883110-2F47-4B1C-B8E0-52C56B9246DB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{380CCDA4-1070-4E3F-92E7-C1883ABDDCA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{380CCDA4-1070-4E3F-92E7-C1883ABDDCA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{380CCDA4-1070-4E3F-92E7-C1883ABDDCA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{380CCDA4-1070-4E3F-92E7-C1883ABDDCA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

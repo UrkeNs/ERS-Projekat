@@ -13,7 +13,7 @@ namespace HydroelectricPowerPlant
         {
             Random rnd = new Random();
 
-            int elektricnaEnergijaProc = 0; 
+            int elektricnaEnergijaProc = 0;
 
             double elektricnaEnergija = 0;
 
@@ -25,8 +25,23 @@ namespace HydroelectricPowerPlant
 
             elektricnaEnergija = maxElektricnaEnergija * ((double)elektricnaEnergijaProc / 100);
 
-            Console.WriteLine("Trenutno generisana snaga u procentima: " + elektricnaEnergijaProc + "%");
-            Console.WriteLine("Trenutna snaga generisana u KW: " + elektricnaEnergija + "KW");
+           
+            Random r = new Random();
+            int rb = r.Next(1, 10000);
+            Elektrana e = new Elektrana(elektricnaEnergijaProc,DateTime.Now);
+            
+            while (HydroelectricPowerPlantDataBase.elektrane.ContainsKey(rb))
+            {
+
+                rb = r.Next(1, 10000);
+
+            }
+
+            HydroelectricPowerPlantDataBase.elektrane.Add(rb,e);
+            
+
+            Console.WriteLine("Trenutno generisana elektricna energija u procentima: " + elektricnaEnergijaProc + "%");
+            Console.WriteLine("Trenutna elektricna energija u MV: " + elektricnaEnergija + "MV");
 
             return elektricnaEnergija;
         }

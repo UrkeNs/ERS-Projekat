@@ -13,19 +13,22 @@ namespace DistributionCenter
 {
     public class DistroCenterServicescs : IDistributionCenter
     {
+
+        public static double snaga = 0;
         public string TraziZahtjev(Uredjaj u)
         {
 
             int kwh = u.Kwph;
-            double cena = (double)(10 * kwh);
+            double cena = (double)(54.258 * kwh);
             
             string adresa = "net.tcp://localhost:3999/Solar";
             NetTcpBinding binding = new NetTcpBinding();
             ChannelFactory<IsolarPanelsAndWindGens> channel =
                 new ChannelFactory<IsolarPanelsAndWindGens>(binding, adresa);
             IsolarPanelsAndWindGens proxy = channel.CreateChannel();
-
-            double snaga= proxy.generisiSnagu();
+            
+           
+            snaga+= proxy.generisiSnagu();
 
             if (!(kwh > snaga))
             {
@@ -41,12 +44,15 @@ namespace DistributionCenter
                 }
 
                 DistributionCentreDataBase.uredjaji.Add(rb, u);
+                snaga = 0;
                 return "Odobren je zahtjev za uredjaj: " + o.ToString();
             }
 
             else
+            {
+                snaga = 0;
                 return "Zahtjev odbijen";
-
+            }
             /*string adresa1 = "net.tcp://localhost:3998/Hidro";
             NetTcpBinding binding1 = new NetTcpBinding();
             ChannelFactory<IHidroelectricPower> channel1 =

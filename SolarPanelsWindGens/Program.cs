@@ -17,7 +17,7 @@ namespace SolarPanelsWindGens
         {
             using (ServiceHost host = new ServiceHost(typeof(SolarPanelsAndWindGensServices)))
             {
-
+                
                 string adresa = "net.tcp://localhost:3999/Solar";
                 NetTcpBinding binding = new NetTcpBinding();
                 host.AddServiceEndpoint(typeof(IsolarPanelsAndWindGens), binding, adresa);

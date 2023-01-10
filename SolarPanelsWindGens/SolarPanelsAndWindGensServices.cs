@@ -18,20 +18,24 @@ namespace SolarPanelsWindGens
 
             Random rnd = new Random();
 
-            int snagaSolarWind = 0; // snaga u procentima
+            int WSEnergijaProc = 0;
 
-            double snagaKW = 0;
+            double WSEnergija = 0;
 
-            double maxSnaga = 750;
+            double maxWSEnergija = 406.5;
 
 
 
-            snagaSolarWind = rnd.Next(0, 101);
+            WSEnergijaProc = rnd.Next(0, 101);
 
-            snagaKW = maxSnaga * ((double)snagaSolarWind / 100);
+            WSEnergija = maxWSEnergija * ((double)WSEnergijaProc / 100);
 
-            Console.WriteLine("Trenutno generisana snaga u procentima: " + snagaSolarWind + "%");
-            Console.WriteLine("Trenutna snaga generisana u KW: " + snagaKW + "KW");
+
+
+            
+
+            Console.WriteLine("Trenutno generisana snaga u procentima: " + WSEnergijaProc + "%");
+            Console.WriteLine("Trenutna snaga generisana u KW: " + WSEnergija + "KW");
 
 
 
@@ -41,7 +45,7 @@ namespace SolarPanelsWindGens
 
 
 
-                return snagaKW;
+                return WSEnergija;
         }
 
         

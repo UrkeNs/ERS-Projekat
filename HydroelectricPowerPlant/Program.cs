@@ -12,7 +12,7 @@ namespace HydroelectricPowerPlant
     {
         static void Main(string[] args)
         {
-            using (ServiceHost host = new ServiceHost(typeof(HydroelectricPowerPlantServices)))
+            using (ServiceHost host = new ServiceHost(typeof(HydroelectricPowerPlant)))
             {
 
                 string adresa = "net.tcp://localhost:3998/Hidro";

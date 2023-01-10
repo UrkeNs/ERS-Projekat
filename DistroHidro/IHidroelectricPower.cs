@@ -11,11 +11,6 @@ namespace DistroHidro
     public interface IHidroelectricPower
     {
         [OperationContract]
-        void PotraznjaZaGenerisanje();
-
-        //komentar
-
-
-
+        double PotraznjaZaGenerisanje();
     }
 }

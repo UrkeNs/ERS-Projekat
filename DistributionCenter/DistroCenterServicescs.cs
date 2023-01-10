@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using PowerDistributionSystem;
 using SolarPanels;
+using DistroHidro;
 using System.ServiceModel;
 
 
@@ -12,9 +13,6 @@ namespace DistributionCenter
 {
     public class DistroCenterServicescs : IDistributionCenter
     {
-        
-            
-
         public string TraziZahtjev(Uredjaj u)
         {
 
@@ -47,12 +45,8 @@ namespace DistributionCenter
                 return "Odobren je zahtjev za uredjaj: " + o.ToString();
             }
 
-
-
             else
-                return "Zahtjev odbijen";
-
-            
+                return "Zahtjev odbijen";   
         }
     }
 }
